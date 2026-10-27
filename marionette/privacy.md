@@ -24,7 +24,7 @@ Marionette MCP ("Marionette") is a Windows desktop app that lets an AI client yo
 | Recognized text, element lists, window titles and app names | Returned to the connected AI client as the tool's result. |
 | Screenshots | Returned to the AI client only when it asks for an image. |
 | Text the AI client types | Sent to the target app as keyboard input. To enter some text (such as Korean), Marionette puts it on the clipboard briefly, pastes it, and puts back the clipboard text that was there before. |
-| Your own keyboard input | **Not recorded.** Marionette registers one global hotkey (the emergency stop, Ctrl+Alt+Q by default) and does not log other keys. |
+| Your own keyboard input | **Not recorded.** Marionette registers one global hotkey (the emergency stop, Ctrl+Alt+Backspace by default) and does not log other keys. |
 
 ## Where the results go
 
@@ -83,7 +83,7 @@ Marionette MCP(이하 "Marionette")는 사용자가 실행하는 AI 클라이언
 | 인식한 글자, 요소 목록, 창 제목, 앱 이름 | 도구 결과로 연결된 AI 클라이언트에 돌려줍니다. |
 | 스크린샷 | AI 클라이언트가 이미지를 요청할 때만 돌려줍니다. |
 | AI 클라이언트가 입력하는 글자 | 대상 앱에 키보드 입력으로 보냅니다. 한글 등 일부 글자는 클립보드에 잠깐 넣어 붙여 넣은 뒤, 원래 있던 클립보드 글자로 되돌립니다. |
-| 사용자의 키보드 입력 | **기록하지 않습니다.** 긴급 정지용 단축키 하나(기본 Ctrl+Alt+Q)만 등록하고 다른 키는 기록하지 않습니다. |
+| 사용자의 키보드 입력 | **기록하지 않습니다.** 긴급 정지용 단축키 하나(기본 Ctrl+Alt+Backspace)만 등록하고 다른 키는 기록하지 않습니다. |
 
 ## 결과가 가는 곳
 
