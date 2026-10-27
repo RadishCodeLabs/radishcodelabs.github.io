@@ -4,7 +4,7 @@ title: Marionette MCP — Privacy Policy
 
 # Marionette MCP — Privacy Policy
 
-Effective date: 2026-10-26 · Developer: Sewoong Oh (RadishCode Labs) · Contact: kumting1103@gmail.com
+Effective date: 2026-10-27 · Developer: Sewoong Oh (RadishCode Labs) · Contact: kumting1103@gmail.com
 
 [한국어](ko/privacy)
 
@@ -42,10 +42,7 @@ All of it stays on your PC; uninstalling removes the app's files (see each editi
 
 ## Internet access
 
-Marionette itself sends nothing to the developer. It connects to the internet only for:
-
-- **Microsoft Store edition:** license (Pro add-on) and update checks, handled by the Microsoft Store and Windows.
-- **Direct edition:** a daily check for a new version on GitHub (`github.com/kumting1103/Marionette-releases`), which receives the usual request information (IP address, user agent with the Marionette version).
+Marionette itself sends nothing to the developer. It connects to the internet only for license (Pro add-on) and update checks, which the Microsoft Store and Windows handle.
 
 Your AI client and its AI service are separate products with their own network use and policies.
 

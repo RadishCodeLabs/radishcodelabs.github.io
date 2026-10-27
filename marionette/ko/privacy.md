@@ -5,7 +5,7 @@ lang: ko
 
 # Marionette MCP 개인정보 처리방침
 
-시행일: 2026-10-26 · 개발자: 오세웅(RadishCode Labs) · 연락처: kumting1103@gmail.com
+시행일: 2026-10-27 · 개발자: 오세웅(RadishCode Labs) · 연락처: kumting1103@gmail.com
 
 [English](../privacy)
 
@@ -43,10 +43,7 @@ Marionette MCP(이하 "Marionette")는 사용자가 실행하는 AI 클라이언
 
 ## 인터넷 접속
 
-Marionette는 개발자에게 아무것도 보내지 않습니다. 인터넷에는 다음 경우에만 접속합니다.
-
-- **Microsoft Store판**: 라이선스(Pro 추가 기능)와 업데이트 확인. Microsoft Store와 Windows가 처리합니다.
-- **직접 계약판**: 하루 한 번 GitHub(`github.com/kumting1103/Marionette-releases`)에서 새 버전 확인. 일반적인 요청 정보(IP 주소, Marionette 버전이 담긴 사용자 에이전트)가 전달됩니다.
+Marionette는 개발자에게 아무것도 보내지 않습니다. 인터넷에는 라이선스(Pro 추가 기능)와 업데이트 확인을 위해서만 접속하며, 이는 Microsoft Store와 Windows가 처리합니다.
 
 AI 클라이언트와 AI 서비스는 별개의 제품으로, 각자의 네트워크 사용과 정책이 있습니다.
 

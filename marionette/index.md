@@ -22,7 +22,6 @@ Marionette MCP is a local MCP server for Windows. An AI client such as Claude Co
 ## Get it
 
 - **Microsoft Store**: *Marionette MCP* (link after publication). Free, with a Pro add-on that removes the hourly limit.
-- **Direct edition** for organizations that can't use the Microsoft Store: contact us.
 
 ## System requirements
 
@@ -49,7 +48,7 @@ Then restart Claude Code.
 ## Free and Pro
 
 - **Free**: 100 tool calls in any one-hour window.
-- **Pro**: no limit. Buy the Pro add-on in the Store, or enter a license key in the direct edition.
+- **Pro**: no limit. Buy the Pro add-on in the Microsoft Store (coming soon).
 
 ## Support
 

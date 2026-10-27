@@ -23,7 +23,6 @@ Marionette MCP는 Windows용 로컬 MCP 서버입니다. Claude Code 같은 AI �
 ## 받기
 
 - **Microsoft Store**: *Marionette MCP*(게시 뒤 링크). 무료이고, 시간당 한도를 없애는 Pro 추가 기능이 있습니다.
-- **직접 계약판**: Microsoft Store를 쓸 수 없는 조직용. 문의해 주세요.
 
 ## 시스템 요구 사항
 
@@ -50,7 +49,7 @@ claude mcp add --transport http marionette http://127.0.0.1:5300 -s user
 ## Free와 Pro
 
 - **Free**: 어느 1시간 동안이든 도구 호출 100회.
-- **Pro**: 한도 없음. Store에서 Pro 추가 기능을 사거나, 직접 계약판에서 라이선스 키를 입력합니다.
+- **Pro**: 한도 없음. Microsoft Store에서 Pro 추가 기능으로 삽니다(제공 예정).
 
 ## 지원
 
