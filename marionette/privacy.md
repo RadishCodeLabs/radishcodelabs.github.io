@@ -4,7 +4,7 @@ title: Marionette MCP — Privacy Policy
 
 # Marionette MCP — Privacy Policy
 
-Effective date: 2026-10-27 · Developer: Sewoong Oh (RadishCode Labs) · Contact: kumting1103@gmail.com
+Effective date: 2026-10-28 · Developer: Sewoong Oh (RadishCode Labs) · Contact: radishcodelabs@gmail.com
 
 [한국어](ko/privacy)
 
@@ -56,4 +56,4 @@ If this policy changes, the new version is posted at this address with a new eff
 
 ## Contact
 
-Questions about this policy: kumting1103@gmail.com
+Questions about this policy: radishcodelabs@gmail.com

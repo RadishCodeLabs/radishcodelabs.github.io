@@ -5,7 +5,7 @@ lang: ko
 
 # Marionette MCP 개인정보 처리방침
 
-시행일: 2026-10-27 · 개발자: 오세웅(RadishCode Labs) · 연락처: kumting1103@gmail.com
+시행일: 2026-10-28 · 개발자: 오세웅(RadishCode Labs) · 연락처: radishcodelabs@gmail.com
 
 [English](../privacy)
 
@@ -57,4 +57,4 @@ Marionette는 개발자 도구이며 13세 미만 아동을 대상으로 하지 
 
 ## 연락처
 
-이 방침에 대한 문의: kumting1103@gmail.com
+이 방침에 대한 문의: radishcodelabs@gmail.com

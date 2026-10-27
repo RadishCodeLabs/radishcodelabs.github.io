@@ -5,7 +5,7 @@ lang: ko
 
 # RadishCode Labs
 
-오세웅이 만드는 소프트웨어. · 연락처: kumting1103@gmail.com · [English](../)
+오세웅이 만드는 소프트웨어. · 연락처: radishcodelabs@gmail.com · [English](../)
 
 ## 제품
 

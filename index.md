@@ -4,7 +4,7 @@ title: RadishCode Labs
 
 # RadishCode Labs
 
-Software by Sewoong Oh. · Contact: kumting1103@gmail.com · [한국어](ko/)
+Software by Sewoong Oh. · Contact: radishcodelabs@gmail.com · [한국어](ko/)
 
 ## Products
 

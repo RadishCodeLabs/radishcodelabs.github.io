@@ -7,7 +7,7 @@ lang: ko
 
 **AI 클라이언트가 Windows 데스크톱 앱을 보고 조작하게 합니다.** · 오세웅(RadishCode Labs)
 
-[English](../) · [개인정보 처리방침](privacy) · 지원: kumting1103@gmail.com
+[English](../) · [개인정보 처리방침](privacy) · 지원: radishcodelabs@gmail.com
 
 Marionette MCP는 Windows용 로컬 MCP 서버입니다. Claude Code 같은 AI 클라이언트가 도구를 불러 화면을 캡처하고, 글자를 읽고, 버튼과 아이콘을 찾고, 데스크톱 앱을 클릭하거나 입력합니다. API가 없는 앱도 다룰 수 있습니다.
 
@@ -53,4 +53,4 @@ claude mcp add --transport http marionette http://127.0.0.1:5300 -s user
 
 ## 지원
 
-kumting1103@gmail.com
+radishcodelabs@gmail.com

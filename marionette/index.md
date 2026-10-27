@@ -6,7 +6,7 @@ title: Marionette MCP
 
 **Let your AI client see and operate Windows desktop apps.** · by Sewoong Oh (RadishCode Labs)
 
-[한국어](ko/) · [Privacy Policy](privacy) · Support: kumting1103@gmail.com
+[한국어](ko/) · [Privacy Policy](privacy) · Support: radishcodelabs@gmail.com
 
 Marionette MCP is a local MCP server for Windows. An AI client such as Claude Code calls its tools to capture the screen, read text, find buttons and icons, and click or type in desktop apps — including apps that have no API.
 
@@ -52,4 +52,4 @@ Then restart Claude Code.
 
 ## Support
 
-kumting1103@gmail.com
+radishcodelabs@gmail.com
