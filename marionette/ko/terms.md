@@ -88,4 +88,4 @@ lang: ko
 
 ## 제13조 (문의)
 
-Pro 라이선스, 회사용 계약과 이 계약에 관한 문의: codetelier.support@gmail.com
+Pro 라이선스와 이 계약에 관한 문의: codetelier.support@gmail.com

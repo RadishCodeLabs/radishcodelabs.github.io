@@ -87,4 +87,4 @@ This agreement is governed by the laws of the Republic of Korea, and the courts 
 
 ## 13. Contact
 
-Pro licenses, business agreements and questions about this agreement: codetelier.support@gmail.com
+Pro licenses and questions about this agreement: codetelier.support@gmail.com
