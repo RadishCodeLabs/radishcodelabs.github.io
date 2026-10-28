@@ -1,10 +1,10 @@
 ---
-title: RadishCode Labs
+title: Codetelier
 ---
 
-# RadishCode Labs
+# Codetelier
 
-Software by Sewoong Oh. · Contact: radishcodelabs@gmail.com · [한국어](ko/)
+Software by Sewoong Oh. · Contact: codetelier.support@gmail.com · [한국어](ko/)
 
 ## Products
 
