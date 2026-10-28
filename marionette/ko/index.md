@@ -7,7 +7,7 @@ lang: ko
 
 **AI 클라이언트가 Windows 데스크톱 앱을 보고 조작하게 합니다.** · 오세웅(Codetelier)
 
-[English](../) · [개인정보 처리방침](privacy) · 지원: codetelier.support@gmail.com
+[English](../) · [이용약관](terms) · [환불 정책](refund) · [개인정보 처리방침](privacy) · 지원: codetelier.support@gmail.com
 
 Marionette MCP는 Windows용 로컬 MCP 서버입니다. Claude Code 같은 AI 클라이언트가 도구를 불러 화면을 캡처하고, 글자를 읽고, 버튼과 아이콘을 찾고, 데스크톱 앱을 클릭하거나 입력합니다. API가 없는 앱도 다룰 수 있습니다.
 
@@ -55,7 +55,7 @@ claude mcp add --transport http marionette http://127.0.0.1:5300 -s user
 ## Free와 Pro
 
 - **Free**: 어느 1시간 동안이든 도구 호출 100회.
-- **Pro**: 한도 없음. $29 한 번 결제, PC 1대. Marionette 창 **정보** 탭의 **Pro 구매**를 누르고, 결제가 끝나면 열리는 페이지가 바로 활성화해 줍니다([활성화](activate)). 키는 영수증 메일에도 옵니다. 다른 PC로 옮기려면 쓰던 PC에서 먼저 **키 삭제**를 누르세요.
+- **Pro**: 한도 없음. $29 한 번 결제, PC 1대. Marionette 창 **정보** 탭의 **Pro 구매**를 누르고, 결제가 끝나면 열리는 페이지가 바로 활성화해 줍니다([활성화](activate)). 키는 영수증 메일에도 옵니다. 다른 PC로 옮기려면 쓰던 PC에서 먼저 **키 삭제**를 누르세요. 14일 안에는 전액 환불합니다([환불 정책](refund)).
 
 ## 지원
 
