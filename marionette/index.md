@@ -54,7 +54,7 @@ Then restart Claude Code.
 ## Free and Pro
 
 - **Free**: 100 tool calls in any one-hour window.
-- **Pro**: no limit. $29, paid once, for one PC. Press **Buy Pro** on the Marionette window's **About** tab; after the payment, the page that opens activates Marionette for you ([activate](activate)). The key is also in your receipt email. To move Pro to another PC, press **Remove key** on the old one first. Full refund within 14 days ([Refund Policy](refund)).
+- **Pro**: no limit. $29, paid once, for one PC. Press **Buy Pro** on the Marionette window's **About** tab. Your license key comes in the receipt email: paste it on the **About** tab and press **Register** ([how](activate)). To move Pro to another PC, press **Remove key** on the old one first. Full refund within 14 days ([Refund Policy](refund)).
 
 ## Support
 
