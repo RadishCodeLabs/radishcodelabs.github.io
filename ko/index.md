@@ -1,11 +1,11 @@
 ---
-title: RadishCode Labs (한국어)
+title: Codetelier (한국어)
 lang: ko
 ---
 
-# RadishCode Labs
+# Codetelier
 
-오세웅이 만드는 소프트웨어. · 연락처: radishcodelabs@gmail.com · [English](../)
+오세웅이 만드는 소프트웨어. · 연락처: codetelier.support@gmail.com · [English](../)
 
 ## 제품
 

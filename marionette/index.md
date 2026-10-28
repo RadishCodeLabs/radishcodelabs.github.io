@@ -4,9 +4,9 @@ title: Marionette MCP
 
 # Marionette MCP
 
-**Let your AI client see and operate Windows desktop apps.** · by Sewoong Oh (RadishCode Labs)
+**Let your AI client see and operate Windows desktop apps.** · by Sewoong Oh (Codetelier)
 
-[한국어](ko/) · [Privacy Policy](privacy) · Support: radishcodelabs@gmail.com
+[한국어](ko/) · [Privacy Policy](privacy) · Support: codetelier.support@gmail.com
 
 Marionette MCP is a local MCP server for Windows. An AI client such as Claude Code calls its tools to capture the screen, read text, find buttons and icons, and click or type in desktop apps — including apps that have no API.
 
@@ -21,7 +21,13 @@ Marionette MCP is a local MCP server for Windows. An AI client such as Claude Co
 
 ## Get it
 
-- **Microsoft Store**: *Marionette MCP* (link after publication). Free, with a Pro add-on that removes the hourly limit.
+Install with [winget](https://learn.microsoft.com/windows/package-manager/winget/) (built into Windows 10 and 11) from PowerShell or the command prompt. No administrator rights and no setup screens:
+
+```
+winget install Codetelier.Marionette
+```
+
+Marionette checks for new versions once a day and installs them when you choose (or, if you turn on automatic install, while Claude is idle).
 
 ## System requirements
 
@@ -48,8 +54,8 @@ Then restart Claude Code.
 ## Free and Pro
 
 - **Free**: 100 tool calls in any one-hour window.
-- **Pro**: no limit. Buy the Pro add-on in the Microsoft Store (coming soon).
+- **Pro**: no limit. $29, paid once, for one PC. Press **Buy Pro** on the Marionette window's **About** tab; after the payment, the page that opens activates Marionette for you ([activate](activate)). The key is also in your receipt email. To move Pro to another PC, press **Remove key** on the old one first.
 
 ## Support
 
-radishcodelabs@gmail.com
+codetelier.support@gmail.com

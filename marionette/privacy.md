@@ -4,7 +4,7 @@ title: Marionette MCP — Privacy Policy
 
 # Marionette MCP — Privacy Policy
 
-Effective date: 2026-10-28 · Developer: Sewoong Oh (RadishCode Labs) · Contact: radishcodelabs@gmail.com
+Effective date: 2026-10-28 · Developer: Sewoong Oh (Codetelier) · Contact: codetelier.support@gmail.com
 
 [한국어](ko/privacy)
 
@@ -33,7 +33,7 @@ Marionette MCP ("Marionette") is a Windows desktop app that lets an AI client yo
 
 ## What Marionette stores on your PC
 
-All of it stays on your PC; uninstalling removes the app's files (see each edition below).
+All of it stays on your PC. Uninstalling removes the settings, logs and remote-use token; the app notes, the license and the usage count stay, so a reinstall on the same PC keeps them.
 
 - Settings (language, input mode, models, remote-use state).
 - App notes: tips about apps Marionette has operated (app names, window titles, short notes, and short summaries of recent tool calls attached as evidence).
@@ -42,7 +42,12 @@ All of it stays on your PC; uninstalling removes the app's files (see each editi
 
 ## Internet access
 
-Marionette itself sends nothing to the developer. It connects to the internet only for license (Pro add-on) and update checks, which the Microsoft Store and Windows handle.
+Marionette itself sends nothing to the developer. It connects to the internet only for:
+
+- **Update checks** (when Marionette starts and once a day; you can turn them off in the settings): it downloads the list of the latest version's files from GitHub. The request carries Marionette's version; GitHub sees your IP address as with any web request.
+- **Pro key checks** (when you register or remove a key, when Marionette starts and once a day): it sends the key, your PC's name and the activation ID to the seller, Lemon Squeezy, under Lemon Squeezy's own privacy policy.
+
+**Buy Pro** opens Lemon Squeezy's checkout in your browser. The activation page after the payment reads your key from the part of the address after `#`, which browsers never send to a server, and hands it to Marionette on your PC.
 
 Your AI client and its AI service are separate products with their own network use and policies.
 
@@ -56,4 +61,4 @@ If this policy changes, the new version is posted at this address with a new eff
 
 ## Contact
 
-Questions about this policy: radishcodelabs@gmail.com
+Questions about this policy: codetelier.support@gmail.com

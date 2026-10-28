@@ -5,7 +5,7 @@ lang: ko
 
 # Marionette MCP 개인정보 처리방침
 
-시행일: 2026-10-28 · 개발자: 오세웅(RadishCode Labs) · 연락처: radishcodelabs@gmail.com
+시행일: 2026-10-28 · 개발자: 오세웅(Codetelier) · 연락처: codetelier.support@gmail.com
 
 [English](../privacy)
 
@@ -34,7 +34,7 @@ Marionette MCP(이하 "Marionette")는 사용자가 실행하는 AI 클라이언
 
 ## PC에 저장하는 것
 
-모두 사용자의 PC에만 저장합니다. 제거하면 앱 파일이 지워집니다(판별 아래 참고).
+모두 사용자의 PC에만 저장합니다. 제거하면 설정·로그·원격 접속 토큰이 지워지고, 앱 노트·라이선스·사용 기록은 남아 같은 PC에 다시 설치하면 그대로 이어집니다.
 
 - 설정(언어, 입력 방식, 모델, 원격 사용 상태)
 - 앱 노트: Marionette가 다뤄 본 앱의 요령(앱 이름, 창 제목, 짧은 노트, 근거로 붙는 최근 도구 호출의 짧은 요약)
@@ -43,7 +43,12 @@ Marionette MCP(이하 "Marionette")는 사용자가 실행하는 AI 클라이언
 
 ## 인터넷 접속
 
-Marionette는 개발자에게 아무것도 보내지 않습니다. 인터넷에는 라이선스(Pro 추가 기능)와 업데이트 확인을 위해서만 접속하며, 이는 Microsoft Store와 Windows가 처리합니다.
+Marionette는 개발자에게 아무것도 보내지 않습니다. 인터넷에는 다음 두 가지를 위해서만 접속합니다.
+
+- **업데이트 확인**(Marionette를 시작할 때와 하루 한 번, 설정에서 끌 수 있음): GitHub에서 최신 버전의 파일 목록을 받습니다. 요청에는 Marionette의 버전이 들어가고, GitHub는 일반 웹 요청처럼 IP 주소를 알 수 있습니다.
+- **Pro 키 확인**(키를 등록하거나 삭제할 때, 시작할 때와 하루 한 번): 키, PC 이름, 활성화 번호를 판매처 Lemon Squeezy에 보냅니다. Lemon Squeezy의 개인정보 처리방침을 따릅니다.
+
+**Pro 구매**는 브라우저에서 Lemon Squeezy 결제 페이지를 엽니다. 결제 뒤 활성화 페이지는 주소의 `#` 뒷부분(브라우저가 서버로 보내지 않음)에서 키를 읽어 이 PC의 Marionette에 넘깁니다.
 
 AI 클라이언트와 AI 서비스는 별개의 제품으로, 각자의 네트워크 사용과 정책이 있습니다.
 
@@ -57,4 +62,4 @@ Marionette는 개발자 도구이며 13세 미만 아동을 대상으로 하지 
 
 ## 연락처
 
-이 방침에 대한 문의: radishcodelabs@gmail.com
+이 방침에 대한 문의: codetelier.support@gmail.com
